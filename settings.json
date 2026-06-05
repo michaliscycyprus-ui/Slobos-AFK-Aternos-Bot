@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Eimaste_gay.aternos.me",
-    "port": 58891,
-    "version": "",
+    "ip": "eimastegay.minefort.com",
+    "port": 25565,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
